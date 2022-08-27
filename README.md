@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kundanmourya)]
+[![rank](https://github-profile-rank.vercel.app/?username=kundanmourya)]
