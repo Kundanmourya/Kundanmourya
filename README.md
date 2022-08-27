@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![throphy](https://github-profile-trophy.vercel.app/?username=kundanmourya)]
+[throphy](https://github-profile-trophy.vercel.app/?username=kundanmourya)
