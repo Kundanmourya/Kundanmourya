@@ -20,4 +20,6 @@ You can click the Preview link to take a look at your changes.
  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanmourya&&layout=compact&hide=shell&theme=jolly"/>
 -->
 
+<!--
 ![throphy](https://github-profile-trophy.vercel.app/?username=kundanmourya)
+-->
