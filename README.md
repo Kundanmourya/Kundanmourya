@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Kundansingh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kundanmourya&theme=xcode)](https://git.io/kundanmourya)
+![Kundansingh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kundanmourya&theme=xcode)](https://git.io/kundanmourya) <br/>
 
 <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=kundanmourya&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 
